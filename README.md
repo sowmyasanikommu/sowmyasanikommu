@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## 👩‍💻 About Me<br><br>I'm Sowmya, an Electronics & Communication Engineering undergraduate at PVP Siddhartha Institute of Technology, Vijayawada (2023 – 2027), and I enjoy working across both hardware and software.<br><br>- 🔌 **Hardware:** I've built embedded C firmware and IoT prototypes on ESP32 with sensors, RFID and motor drivers, including an obstacle-avoiding robot and an RFID attendance system, during my IoT internship at Physitech.<br>- 🧠 **AI:** I'm currently building an **Edge-AI Chest X-ray Classifier**, a CPU-only CNN under 2 MB with 94.18% accuracy, converted to TensorFlow Lite for edge devices. I've also built a 7-node multi-agent competitive intelligence system with LangGraph, RAG and FastAPI.<br>- 📊 **Data:** I turn raw data into dashboards and decisions using SQL, Power BI, Excel and Python, and gained hands-on experience as an AI Integration Intern at Smartkeen Technologies.<br><br>🔭 **Currently working on:** deploying my edge-AI model to a Raspberry Pi 4<br>🌱 **Learning:** Linux drivers, edge computing, model optimization<br>📫 **Reach me:** sanikommusowmya@gmail.com · [LinkedIn](https://linkedin.com/in/sowmya-sanikommu)
 
 
@@ -11,14 +10,5 @@
 ![](https://github-readme-stats.shion.dev/api?username=sowmyasanikommu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=sowmyasanikommu&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sowmyasanikommu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sowmyasanikommu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sowmyasanikommu&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=sowmyasanikommu&icon=2&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
